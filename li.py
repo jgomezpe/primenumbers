@@ -25,6 +25,7 @@ def li_star(x):
     s += p
   return x*s/lx
 
+# Main program
 k = 1
 for i in range(1,len(li)):
   k *= 10
